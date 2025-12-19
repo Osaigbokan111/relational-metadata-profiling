@@ -1,0 +1,6 @@
+﻿reservation_id,first_name,middle_name,last_name,flight_number,seat_number
+12,Richard,A.,Gonzalez,MH2525,2F
+88,Alexander,A.,Ruiz,JL707,15D
+139,Carol,NULL,Flores,TP3434,24A
+157,Cynthia,B.,Edwards,AF404,27A
+199,Heather,NULL,Jimenez,QR1919,34A

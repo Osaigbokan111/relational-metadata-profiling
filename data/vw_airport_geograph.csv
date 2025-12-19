@@ -1,0 +1,31 @@
+﻿airport_id,airport_code,airport_name,city_id,city_name,country_id,country_name
+1,JFK,John F. Kennedy International Airport,1,New York,1,United States
+2,LAX,Los Angeles International Airport,2,Los Angeles,1,United States
+3,ORD,O'Hare International Airport,3,Chicago,1,United States
+4,LHR,London Heathrow Airport,6,London,2,United Kingdom
+5,CDG,Charles de Gaulle Airport,26,Paris,6,France
+6,DXB,Dubai International Airport,46,Dubai,15,United Arab Emirates
+7,HND,Haneda Airport,31,Tokyo,7,Japan
+8,PEK,Beijing Capital International Airport,36,Beijing,8,China
+9,SYD,Sydney Kingsford Smith Airport,16,Sydney,4,Australia
+10,YYZ,Toronto Pearson International Airport,11,Toronto,3,Canada
+11,FRA,Frankfurt Airport,22,Frankfurt,5,Germany
+12,AMS,Amsterdam Airport Schiphol,14,Calgary,3,Canada
+13,SIN,Singapore Changi Airport,47,Singapore,16,Singapore
+14,ICN,Incheon International Airport,48,Seoul,17,South Korea
+15,IST,Istanbul Airport,49,Istanbul,18,Turkey
+16,DFW,Dallas/Fort Worth International Airport,5,Dallas,1,United States
+17,MIA,Miami International Airport,4,Miami,1,United States
+18,YYC,Calgary International Airport,14,Calgary,3,Canada
+19,MEL,Melbourne Airport,17,Melbourne,4,Australia
+20,BOM,Chhatrapati Shivaji Maharaj International Airport,42,Mumbai,9,India
+21,DEL,Indira Gandhi International Airport,41,Delhi,9,India
+22,HKG,Hong Kong International Airport,8,Birmingham,2,United Kingdom
+23,BKK,Suvarnabhumi Airport,7,Manchester,2,United Kingdom
+24,MUC,Munich Airport,23,Munich,5,Germany
+25,ZRH,Zurich Airport,5,Dallas,1,United States
+26,CPT,Cape Town International Airport,19,Perth,4,Australia
+27,AKL,Auckland Airport,50,Auckland,20,New Zealand
+28,BCN,Barcelona-El Prat Airport,12,Vancouver,3,Canada
+29,MAD,Adolfo Suárez Madrid–Barajas Airport,12,Vancouver,3,Canada
+30,YVR,Vancouver International Airport,12,Vancouver,3,Canada
