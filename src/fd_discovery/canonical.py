@@ -1,5 +1,5 @@
 from typing import List, Tuple
-from .closure import attribute_closure
+
 
 def is_redundant_fd(fd, fds):
     X, A = fd
